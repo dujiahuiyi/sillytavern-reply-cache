@@ -1,0 +1,7 @@
+{
+    "display_name": "并行回复缓存",
+    "loading_order": 100,
+    "requires": [],
+    "js": "index.js",
+    "version": "1.0.0"
+}
